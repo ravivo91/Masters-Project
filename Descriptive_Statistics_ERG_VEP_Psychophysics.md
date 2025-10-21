@@ -4,6 +4,8 @@ This summary provides descriptive statistics for the flash ERG dataset, the flic
 
 > **Publishable tables:** Run `Rscript generate_descriptive_statistics_tables.R` to produce `Descriptive_Statistics_ERG_VEP_Psychophysics_Table.html`, an HTML report with journal-ready styling (requires the `readxl` and `knitr` packages; styling is enhanced when `kableExtra` is installed).
 
+> **Distribution plots:** Run `python generate_all_statistic_plots.py` to create SVG histograms for every ERG/VEP and psychophysical variable. Plots are written to `figures/<dataset>/` directories (e.g., `figures/flash`, `figures/flicker`, `figures/psychophysics`).
+
 ## Flash ERG Timing and Amplitude Metrics
 
 Subjects included: 33
