@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="450.0" y="35.0" text-anchor="middle" font-size="24" font-family="Helvetica, Arial, sans-serif" fill="#111827">ON_Flicker_ERG_Amp_9Hz (Flicker)</text>
+<line x1="90" y1="490" x2="870" y2="490" stroke="#1f2937" stroke-width="2"/>
+<line x1="90" y1="70" x2="90" y2="490" stroke="#1f2937" stroke-width="2"/>
+<rect x="92.00" y="350.00" width="61.00" height="140.00" fill="#2563eb" opacity="0.85"/>
+<rect x="157.00" y="70.00" width="61.00" height="420.00" fill="#2563eb" opacity="0.85"/>
+<rect x="222.00" y="116.67" width="61.00" height="373.33" fill="#2563eb" opacity="0.85"/>
+<rect x="287.00" y="350.00" width="61.00" height="140.00" fill="#2563eb" opacity="0.85"/>
+<rect x="352.00" y="443.33" width="61.00" height="46.67" fill="#2563eb" opacity="0.85"/>
+<rect x="417.00" y="350.00" width="61.00" height="140.00" fill="#2563eb" opacity="0.85"/>
+<rect x="482.00" y="443.33" width="61.00" height="46.67" fill="#2563eb" opacity="0.85"/>
+<rect x="547.00" y="443.33" width="61.00" height="46.67" fill="#2563eb" opacity="0.85"/>
+<rect x="612.00" y="443.33" width="61.00" height="46.67" fill="#2563eb" opacity="0.85"/>
+<rect x="677.00" y="443.33" width="61.00" height="46.67" fill="#2563eb" opacity="0.85"/>
+<rect x="742.00" y="490.00" width="61.00" height="0.00" fill="#2563eb" opacity="0.85"/>
+<rect x="807.00" y="396.67" width="61.00" height="93.33" fill="#2563eb" opacity="0.85"/>
+<line x1="84" y1="490.00" x2="90" y2="490.00" stroke="#1f2937" stroke-width="1"/>
+<text x="80" y="494.00" text-anchor="end" font-size="14" font-family="Helvetica, Arial, sans-serif" fill="#4b5563">0</text>
+<line x1="84" y1="406.00" x2="90" y2="406.00" stroke="#1f2937" stroke-width="1"/>
+<text x="80" y="410.00" text-anchor="end" font-size="14" font-family="Helvetica, Arial, sans-serif" fill="#4b5563">2</text>
+<line x1="84" y1="322.00" x2="90" y2="322.00" stroke="#1f2937" stroke-width="1"/>
+<text x="80" y="326.00" text-anchor="end" font-size="14" font-family="Helvetica, Arial, sans-serif" fill="#4b5563">4</text>
+<line x1="84" y1="238.00" x2="90" y2="238.00" stroke="#1f2937" stroke-width="1"/>
+<text x="80" y="242.00" text-anchor="end" font-size="14" font-family="Helvetica, Arial, sans-serif" fill="#4b5563">5</text>
+<line x1="84" y1="154.00" x2="90" y2="154.00" stroke="#1f2937" stroke-width="1"/>
+<text x="80" y="158.00" text-anchor="end" font-size="14" font-family="Helvetica, Arial, sans-serif" fill="#4b5563">7</text>
+<line x1="84" y1="70.00" x2="90" y2="70.00" stroke="#1f2937" stroke-width="1"/>
+<text x="80" y="74.00" text-anchor="end" font-size="14" font-family="Helvetica, Arial, sans-serif" fill="#4b5563">9</text>
+<line x1="90.00" y1="490" x2="90.00" y2="496" stroke="#1f2937" stroke-width="1"/>
+<text x="90.00" y="514" text-anchor="middle" font-size="14" font-family="Helvetica, Arial, sans-serif" fill="#4b5563">35.45</text>
+<line x1="246.00" y1="490" x2="246.00" y2="496" stroke="#1f2937" stroke-width="1"/>
+<text x="246.00" y="514" text-anchor="middle" font-size="14" font-family="Helvetica, Arial, sans-serif" fill="#4b5563">319.9</text>
+<line x1="402.00" y1="490" x2="402.00" y2="496" stroke="#1f2937" stroke-width="1"/>
+<text x="402.00" y="514" text-anchor="middle" font-size="14" font-family="Helvetica, Arial, sans-serif" fill="#4b5563">604.4</text>
+<line x1="558.00" y1="490" x2="558.00" y2="496" stroke="#1f2937" stroke-width="1"/>
+<text x="558.00" y="514" text-anchor="middle" font-size="14" font-family="Helvetica, Arial, sans-serif" fill="#4b5563">888.9</text>
+<line x1="714.00" y1="490" x2="714.00" y2="496" stroke="#1f2937" stroke-width="1"/>
+<text x="714.00" y="514" text-anchor="middle" font-size="14" font-family="Helvetica, Arial, sans-serif" fill="#4b5563">1,173</text>
+<line x1="870.00" y1="490" x2="870.00" y2="496" stroke="#1f2937" stroke-width="1"/>
+<text x="870.00" y="514" text-anchor="middle" font-size="14" font-family="Helvetica, Arial, sans-serif" fill="#4b5563">1,458</text>
+</svg>
